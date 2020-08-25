@@ -1,1 +1,1 @@
-ajv -s schema.json -d "members/*.json"
+npx ajv-cli -s schema.json -d "members/*.json"
