@@ -13,6 +13,10 @@
       "description": "Description",
       "type": "string"
     },
+    "url": {
+      "description": "Newsletter URL",
+      "type": "string"
+    },
     "newsletter": {
       "description": "Newsletter name",
       "type": "string"
@@ -30,5 +34,12 @@
       "type": "string"
     }
   },
-  "required": ["name", "newsletter", "description", "image", "newsletter_url"]
+  "required": [
+    "name",
+    "url",
+    "newsletter",
+    "description",
+    "image",
+    "newsletter_url"
+  ]
 }
