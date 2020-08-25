@@ -1,6 +1,7 @@
 {
   "name": "Kristian Freeman",
   "newsletter": "Bytesized Code",
-  "url": "https://www.bytesized.xyz",
+  "newsletter_description": "Bytesized Code is teaching developers and building a community of software engineers around the world. Sign up for our newsletter to receive weekly emails on what's new in the software development world, and stay in the loop on Byteconf, our free developer conference series, streamed online.",
+  "newsletter_url": "https://www.bytesized.xyz/newsletter",
   "twitter": "https://twitter.com/signalnerve"
 }
