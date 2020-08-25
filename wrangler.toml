@@ -1,5 +1,4 @@
 name = "mailinglisthackers-members"
 type = "webpack"
 account_id = "dc56444c4c955a1653106ccf997c1067"
-route = "https://www.mailinglisthackers.com/members.json"
-zone_id = "aad0262f3b8523142d942cb8285eca4d"
+workers_dev = true
