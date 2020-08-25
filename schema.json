@@ -21,10 +21,14 @@
       "description": "Newsletter URL",
       "type": "string"
     },
+    "image": {
+      "description": "Image URL",
+      "type": "string"
+    },
     "twitter": {
       "description": "Twitter URL",
       "type": "string"
     }
   },
-  "required": ["name", "newsletter", "description", "newsletter_url"]
+  "required": ["name", "newsletter", "description", "image", "newsletter_url"]
 }
