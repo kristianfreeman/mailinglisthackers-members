@@ -9,8 +9,8 @@
       "description": "Member name",
       "type": "string"
     },
-    "newsletter_description": {
-      "description": "Newsletter description",
+    "description": {
+      "description": "Description",
       "type": "string"
     },
     "newsletter": {
@@ -26,5 +26,5 @@
       "type": "string"
     }
   },
-  "required": ["name", "newsletter", "newsletter_description", "newsletter_url"]
+  "required": ["name", "newsletter", "description", "newsletter_url"]
 }

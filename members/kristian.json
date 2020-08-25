@@ -1,7 +1,7 @@
 {
   "name": "Kristian Freeman",
+  "twitter": "https://twitter.com/signalnerve",
+  "description": "I'm Kristian -- I'm the founder of Mailing List Hackers! I spend a lot of time writing stuff for this site, but I also work on a semi-weekly newsletter called Bytesized Code, focused on teaching developers and building a community of software engineers around the world.",
   "newsletter": "Bytesized Code",
-  "newsletter_description": "Bytesized Code is teaching developers and building a community of software engineers around the world. Sign up for our newsletter to receive weekly emails on what's new in the software development world, and stay in the loop on Byteconf, our free developer conference series, streamed online.",
-  "newsletter_url": "https://www.bytesized.xyz/newsletter",
-  "twitter": "https://twitter.com/signalnerve"
+  "newsletter_url": "https://www.bytesized.xyz/newsletter"
 }
