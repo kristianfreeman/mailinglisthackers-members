@@ -1,0 +1,26 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://www.mailinglisthackers.com/member.schema.json",
+  "title": "Members",
+  "description": "Mailing List Hackers members",
+  "type": "object",
+  "properties": {
+    "name": {
+      "description": "Member name",
+      "type": "string"
+    },
+    "newsletter": {
+      "description": "Newsletter name",
+      "type": "string"
+    },
+    "url": {
+      "description": "Newsletter URL",
+      "type": "string"
+    },
+    "twitter": {
+      "description": "Twitter URL",
+      "type": "string"
+    }
+  },
+  "required": ["name", "newsletter", "url"]
+}

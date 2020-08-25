@@ -1,0 +1,1 @@
+ajv -s schema.json -d "members/*.json"
