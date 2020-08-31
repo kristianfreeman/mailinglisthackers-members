@@ -36,7 +36,6 @@
   },
   "required": [
     "name",
-    "url",
     "newsletter",
     "description",
     "image",
